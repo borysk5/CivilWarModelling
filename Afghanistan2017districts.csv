@@ -1,0 +1,79 @@
+name,latitude,longitude,count_gdset,count_terrorism,control
+Achin district,34.060328769230765,70.65571023076923,13,6,DG
+Alingar district,34.822451,70.418087,3,0,D
+Alishing district,34.777888714285716,70.10490842857143,7,0,DR
+Almar district,35.956633,64.295198,3,0,DR
+Anar Dara district,32.651413,61.609409,1,0,DR
+Andar district,33.33759875,68.42074225,4,1,DR
+Archi district,37.006082500000005,69.172342,2,0,DR
+Arghandab district (Kandahar),31.756763,65.647486,1,0,G
+Arghandab district (Zabul),32.47729,67.1084,2,0,DR
+Baghlani Jadid district,36.2985305,68.70591266666666,6,0,DR
+Bagrami district,34.496700000000004,69.2634,2,1,DG
+Bala Buluk district,32.73641225,62.68492525,4,1,R
+Baraki Barak district,33.95166833333334,68.886047,3,0,DG
+Bargi Matal district,35.774604,71.253447,2,0,D
+Barmal district,32.713324,69.27614,1,0,D
+Bati Kot district,34.2517,70.8051,1,2,G
+Chahar Dara district,36.700883833333336,68.79557816666666,6,0,DR
+Chaparhar district,34.290817,70.371911,1,0,D
+Charkh district,33.816745,68.918396,4,0,DR
+Chora district,32.92962,66.2608,1,1,DR
+Darqad district,37.459181,69.508678,1,0,DR
+Darzab district,36.011376999999996,65.429648,2,5,DR
+Dawlatabad district (Faryab),36.521469,64.909386,1,2,DR
+Dih Bala district,34.078966,70.44721033333333,3,0,DG
+Dih Yak district,33.483466,68.624679,2,1,DR
+Fayzabad district (Badakhshan),37.116638,70.580022,1,0,DG
+Garmser district,30.852922,64.131675,1,0,DR
+Gelan district,32.716667,67.633333,2,1,DR
+Ghazni district,33.549999,68.416702,1,0,D
+Ghormach district,35.729223,63.7845435,2,0,R
+Imam Sahib district,37.110256500000006,68.945329,2,1,DR
+Jalalabad district,34.428844,70.45575,1,4,DG
+Kandahar district,31.611795,65.705795,1,3,G
+Khakrez district,32.0263405,65.421829,2,1,DR
+Khogyani district,34.23568725,70.15361075,4,1,D
+Khost district,33.333306,69.950037,2,1,DR
+Khwaja Bahawuddin district,37.34953325,69.54912325000001,4,5,D
+Kot district,34.155777,70.598827,9,0,DG
+Kunduz district,36.715099,68.856041,2,1,DR
+Lal Pur district,34.2668,70.9114,1,0,G
+Lashkar Gah district,31.600697000000004,64.33329,5,3,DR
+Mihtarlam district,34.663769,70.20739,1,6,DR
+Muhmand Dara district,34.205205,71.00712,1,1,DR
+Muqur district (Ghazni),32.945127,67.783463,1,1,D
+Murghab district,35.462075,63.469625,3,5,DR
+Nad Ali district (Marja),31.663527333333334,64.01696333333334,3,0,DR
+Nahri Sarraj district (Greshk),31.829363,64.608526,4,1,R
+Nazyan district,34.034917666666665,70.84440500000001,3,0,DG
+Nesh district,32.381923,65.703852,6,3,DR
+Omna district,32.912,68.8704,1,0,D
+Pachir Wa Agam district,34.087763,70.280585,1,1,D
+Panjwayi district,31.072875,65.158015,1,0,G
+Parun district,35.3109,70.8644,1,0,DG
+Pashtun Kot district,35.94111899999999,64.77624466666667,3,0,DR
+Puli Alam district,33.995289,69.02274,1,0,DG
+Puli Khumri district,36.0351,68.6404,1,1,DR
+Pusht Rod district,32.489324,62.065236,2,2,R
+Qala-I- Naw district,34.9580285,63.125475,2,0,DR
+Qalat district,32.183189,67.014496,1,0,D
+Qaysar district,35.641366,64.279081,1,0,D
+Reg district (Hilmand),30.15106,63.879346,1,0,R
+Sabari district,33.45882,69.994011,1,1,DR
+Sangin district,32.120374,64.994325,1,0,DR
+Sayyad district,36.0376,65.6507,1,1,DR
+Shahjoy district,32.495924,67.394208,1,1,D
+Shindand district,33.3513,62.3076,1,1,DR
+Shinkay district,32.0138,67.1124,1,1,D
+Spin Boldak district,30.987916,66.169753,1,0,G
+Surkh Rod district,34.425200000000004,70.2963,2,1,DG
+Tagab district (Kapisa),34.797169,69.67923,2,0,DR
+Tala Wa Barfak district,35.273939,68.377712,2,0,R
+Tere Zayi district (Alisher),33.3591,70.1828,1,0,D
+Tirin Kot district,32.65845,65.86770779999999,5,1,DR
+Urgun district,33.0413,69.2153,1,1,D
+Warduj district,36.761276,71.185323,1,0,R
+Zhari district,31.5785,65.465,1,0,G
+Ziruk district,33.1507,69.36346666666667,3,0,DG
+Zurmat district,33.455062,69.05178566666667,3,0,DR
